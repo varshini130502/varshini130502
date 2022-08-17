@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Varshini Koppolu
 - 👀 A Data Science Enthusiast.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking forward to work on more projects related to data science and web development.
+- 🌱 Currently learning Machine Learning.
+- 💞️ Looking forward to work on more projects related to data science and web development.
 - 📫 Reach me through varshini130502@gmail.com
 
 <!---
